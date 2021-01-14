@@ -12,10 +12,12 @@ printed on the console.
 1.) Install python3 through the terminal
     a.) Python3: https://www.python.org/downloads/
 
-2.) Open producerConsumerReal3.py and run the file either using an IDE or 
-    throguh the terminal using: Python3 producerConsumerReal3.py
+2.) Download or git clone all the source files above
 
-3.) The file will write to standard output whenever a producer puts a value
+3.) Open producerConsumerReal3.py and run the file either using an IDE or 
+    through the terminal using: Python3 producerConsumerReal3.py
+
+4.) The file will write to standard output whenever a producer puts a value
     in the queue or when a consumer reads from its queue
 
 -------------
